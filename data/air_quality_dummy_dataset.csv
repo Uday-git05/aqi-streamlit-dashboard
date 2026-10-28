@@ -1,0 +1,13 @@
+﻿Month_ID,Month,Season,PM2_5_ug_m3,PM10_ug_m3,CO_mg_m3,NO2_ug_m3,AQI
+2025-01,January,Winter,92,168,1.2,58,236
+2025-02,February,Winter,84,154,1.1,54,218
+2025-03,March,Pre-monsoon,76,142,0.98,50,201
+2025-04,April,Pre-monsoon,68,132,0.88,46,184
+2025-05,May,Pre-monsoon,57,116,0.76,41,158
+2025-06,June,Monsoon,38,82,0.58,32,108
+2025-07,July,Monsoon,29,66,0.48,27,82
+2025-08,August,Monsoon,24,58,0.42,24,68
+2025-09,September,Monsoon,31,72,0.5,28,91
+2025-10,October,Post-monsoon,48,101,0.66,36,132
+2025-11,November,Post-monsoon,67,129,0.86,45,178
+2025-12,December,Winter,81,151,1.08,53,211
